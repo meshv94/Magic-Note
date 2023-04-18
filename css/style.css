@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.934);
+    color: white;
+}
+
+
+
+
+#showArea {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    justify-content: center;
+    /* background-color: rgba(0, 0, 0, 0.863); */
+    color: black;
+    
+
+}
+
+
+
+
+
+
